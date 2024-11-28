@@ -21,7 +21,7 @@ A Node.js-based application for managing flight records using MongoDB. This proj
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/flight-management-system.git
+   git clone https://github.com/Manushree-23/Flight-management-system.git
    
 2. Navigate to the project directory:
    cd flight-management-system
